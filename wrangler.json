@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-04-01",
+  "main": "src/index.ts",
+  "name": "impresionesyani",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "bb1b72a2-649e-461e-84e6-4d7267f3147f",
+      "database_name": "impresionesyani"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
